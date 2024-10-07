@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lope Lope Untukmu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Untukmu, selvia zahara</h1>
+        <p class="romantic-quote">
+            "Aku mencintaimu tanpa tahu bagaimana, atau kapan, atau dari mana. Aku mencintaimu secara langsung tanpa masalah atau kebanggaan: Aku mencintaimu seperti ini karena aku tidak tahu cara lain untuk mencintai." <br>– kata dari hati
+        </p>
+
+        <div class="heart">
+            💖
+        </div>
+
+        <p class="message">
+            Kamu adalah cahaya yang membuat hariku sempurna. Setiap detik bersamamu adalah kebahagiaan yang tiada tara.
+        </p>
+
+        <button onclick="alert('Aku sayang kamu! 💖')">Klik Untuk Pesan Spesial</button>
+    </div>
+</body>
+</html>
